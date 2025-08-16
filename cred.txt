@@ -1,2 +1,0 @@
-username = pooja
-password = 123
